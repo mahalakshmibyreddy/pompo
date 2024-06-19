@@ -1,0 +1,30 @@
+.container{
+    height: 1000px;
+    width: 100%;
+    background-color: rgb(211, 210, 207);
+}
+.header1{
+    height: 500px;
+    width: 100%;
+    background-image: url(images/p5.jfif);
+    background-size: cover;
+}
+.h2{
+    height: 70px;
+    width: 100%;
+    background-color: white;
+    position: fixed;
+}
+.h2 ul a{
+    list-style-type: none;
+    text-decoration: none;
+    padding-left:10px;   
+}
+.header1 h1{
+    padding-top: 150px;
+    padding-left: 30px;
+}
+.header1 p{
+    padding-top: 40px;
+    padding-left: 30px;
+}
