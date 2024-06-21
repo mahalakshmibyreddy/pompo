@@ -1,0 +1,126 @@
+.container{
+    height: 1500px;
+    width: 100%;
+    background-color: white;
+}
+.header1{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(233, 224, 224);
+    background-image: linear-gradient(rgba(255, 255, 255, .3), rgba(255, 255, 255, .3)),url(images/p3.jpg);
+    background-size: cover;
+}
+.h2{
+    height: 70px;
+    width: 100%;
+    background-color: white;
+    position: fixed;
+}
+.h2 ul a{
+    list-style-type: none;
+    text-decoration: none;
+    padding-left:10px;   
+}
+.h3{
+    height: 200px;
+    width: 50%;
+    text-align:left;
+    padding-top:180px ;
+    margin-left: 30px;
+}
+.header2{
+    height: 400px;
+    width: 100%;
+    background-color: aliceblue; 
+    margin-top: -40px;
+}
+.header2 h4{
+    padding-top: 50px;
+    color: rgb(227, 72, 72);
+
+}
+.header2 h1{
+    text-align:center;
+}
+.header4{
+    height: 500px;
+    width: 100%;
+    background-color: aliceblue;
+}
+.nav1{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(198, 194, 196);
+    margin-left: 100px;
+    
+}  
+
+.header4 .nav2{
+    height: 600px;
+    width:80%;
+    background-color: rgb(251, 250, 253);
+    margin-left: 500px;
+    margin-top:-400px;
+    
+    
+}
+
+.nav2 h1{
+    margin-left: 30px;
+    padding-top: 40px;
+}
+.nav2 h3{
+    margin-left: 30px;
+}
+.nav2 button{
+    color: white;
+    background-color: brown;
+    height: 30px;
+    margin-left: 30px;
+}
+.section1{
+    height: 200px;
+    width: 100%;
+    background-color: aliceblue;
+}
+ .section1 .s1{
+     height: 200px;
+     width: 200px;
+     text-align: center;
+     float: left;
+     margin-left: 80px;
+
+     
+}
+.s1 h4{
+    color: black;
+}
+ .s2{
+    height: 200px;
+    width: 200px;   
+    text-align: center;
+    float: left;
+    margin-left: 100px;
+
+
+ }
+ .s2 h4{
+     color: black;
+ }
+.s3{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    float: left;
+    margin-left: 120px;
+}
+.s3 h4{
+    color: black;
+}
+
+
+
+
+
+
+

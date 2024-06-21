@@ -394,6 +394,54 @@
     height:33px;
 
 }
+.section4{
+    height: 300px;
+    width: 100%;
+    background-color: aliceblue;
+}
+.section4 h1{
+    padding-top: 100px;
+    text-align: center;
+}
+.section4 p{
+    text-align: center;
+}
+
+.section5{
+    height: 200px;
+    width: 100%;
+    background-color: aliceblue;
+}
+ .section5 .s1{
+     height: 200px;
+     width: 200px;
+     text-align: center;
+     float: left;
+     margin-left: 80px;
+     margin-top: -140px;
+     
+}
+ .s2{
+    height: 200px;
+    width: 200px;   
+    text-align: center;
+    float: left;
+    margin-left: 100px;
+
+
+ }
+.s3{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    float: left;
+    margin-left: 120px;
+    
+
+    
+   
+}
+
 
 
 
